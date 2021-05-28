@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-28T13:29:45 CDT" name="Hybrid Framework" finished-at="2021-05-28T13:29:54 CDT" duration-ms="8969">
+    <groups>
+    </groups>
+    <test started-at="2021-05-28T13:29:45 CDT" name="Basic HTML Form" finished-at="2021-05-28T13:29:54 CDT" duration-ms="8969">
+      <class name="com.testcases.BasicHTMLFormTestcase">
+        <test-method is-config="true" signature="loadPropertiesFile()[pri:0, instance:com.testcases.BasicHTMLFormTestcase@503d56b5]" started-at="2021-05-28T13:29:45 CDT" name="loadPropertiesFile" finished-at="2021-05-28T13:29:45 CDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPropertiesFile -->
+        <test-method signature="basicHTMLFormTestcase()[pri:0, instance:com.testcases.BasicHTMLFormTestcase@503d56b5]" started-at="2021-05-28T13:29:45 CDT" name="basicHTMLFormTestcase" finished-at="2021-05-28T13:29:53 CDT" duration-ms="8204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicHTMLFormTestcase -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.testcases.BasicHTMLFormTestcase@503d56b5]" started-at="2021-05-28T13:29:54 CDT" name="closeBrowser" finished-at="2021-05-28T13:29:54 CDT" duration-ms="499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.testcases.BasicHTMLFormTestcase -->
+    </test> <!-- Basic HTML Form -->
+  </suite> <!-- Hybrid Framework -->
+</testng-results>

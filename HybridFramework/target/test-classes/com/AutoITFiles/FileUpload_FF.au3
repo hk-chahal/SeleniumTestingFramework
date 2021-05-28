@@ -1,0 +1,5 @@
+WinWaitActive("File Upload")
+ControlFocus("File Upload", "", "Edit1")
+ControlSetText("File Upload", "", "Edit1", $cmdLine[1])
+ControlClick("File Upload", "", "Button1")
+WinWaitClose("File Upload")

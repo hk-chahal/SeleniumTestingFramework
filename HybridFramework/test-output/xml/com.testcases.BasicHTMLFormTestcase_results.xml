@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Basic HTML Form"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.816">
+  <properties />
+  
+  
+            <testcase name="basicHTMLFormTestcase" time="7.816" classname="com.testcases.BasicHTMLFormTestcase" />
+      
+</testsuite>
